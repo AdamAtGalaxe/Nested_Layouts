@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListView Color Selector</string>
+    <string-array name="colors">
+        <item>Black</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Experimental</item>
+    </string-array>
+</resources>
